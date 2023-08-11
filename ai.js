@@ -1,7 +1,7 @@
 //In ai.js
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
-    apiKey: "v",
+    apiKey: "",
 });const openai = new OpenAIApi(configuration);
 async function ask(prompt) {
     const response = await openai.createCompletion({
