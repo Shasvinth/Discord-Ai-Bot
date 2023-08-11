@@ -12,3 +12,6 @@ A Discord Bot that uses OpenAI API and responds to any question you ask in your 
 
 Test it by running a prompt starting wiht `!` 
   Eg :- `!What is 1 + 1`
+
+## Contribute
+Suggest Your changes and create Pull Requests
