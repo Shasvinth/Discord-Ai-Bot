@@ -1,5 +1,7 @@
 A Discord Bot that uses OpenAI API and responds to any question you ask in your Discord server.
 
+!(https://github.com/Shasvinth/Discord-Ai-Bot/blob/main/AI%20Discord%20Bot%20.png?raw=true)
+
 ## Setup
 
 1. Download the repository and open it in your code editor
